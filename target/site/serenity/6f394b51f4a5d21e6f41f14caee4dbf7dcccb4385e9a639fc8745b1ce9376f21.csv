@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Products CRUD test with steps","Verify if the product was added to the application","FAILURE","2023-01-02T04:24:34.414+10:00[Australia/Brisbane]","0.0","0.07"
+"Products CRUD test with steps","Update the product information and verify the udated information","ERROR","2023-01-02T04:24:34.566+10:00[Australia/Brisbane]","0.0","0.1"
+"Products CRUD test with steps","Delete the student and verify if the student is deleted!","FAILURE","2023-01-02T04:24:34.668+10:00[Australia/Brisbane]","0.0","0.04"
