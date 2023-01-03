@@ -17,7 +17,7 @@ import java.util.List;
 
 import static org.hamcrest.Matchers.hasValue;
 
-//@RunWith(SerenityRunner.class)
+@RunWith(SerenityRunner.class)
 public class StoresCRUDTestWithSteps extends TestBaseStores {
 
     static String name = "Rosevilleee";
